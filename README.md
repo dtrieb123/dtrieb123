@@ -22,17 +22,7 @@
 
 ##### Buy our NFTs 🖼️: [OpenSEA](https://opensea.io/Neuroshack) 
 
-##### Socials: [Hive](https://hive.blog/) | [DTube](https://dtube.com/) | [Youtube](https://www.youtube.com/) |
-
-##### Donations are always welcome:
-
-| #GRIN | #Ethereum |  #BitCoin |
-| --- |  --- | --- |
-| <a> <img width ='200px'   src ='https://raw.githubusercontent.com/dtrieb123/neuroshack/main/grin.png'>  | <a> <img width ='200px'   src ='https://raw.githubusercontent.com/dtrieb123/neuroshack/main/ETH.png'>  | <a> <img width ='200px'   src ='https://raw.githubusercontent.com/dtrieb123/neuroshack/main/qrbtc.png'>  | 
-
-
-<a > <img width ='100%'  height ='2px' src ='https://upload.wikimedia.org/wikipedia/commons/b/bf/GradientPurpleBlue.png'> 
-### Socials: 
+##### Socials: 
 - Medium: https://medium.com/@neuroshack662
 - Reddit: https://www.reddit.com/user/Neuroshack
 - Reddit Group: https://www.reddit.com/r/Neuroshack/
@@ -44,6 +34,13 @@
 - Facebook: https://www.facebook.com/Neuroshack-103496742105941
 - TikTok: https://www.tiktok.com/@neuroshack?
 - Hive.io/ecency: https://ecency.com/@neuroshack
+
+##### Donations are always welcome:
+
+| #GRIN | #Ethereum |  #BitCoin |
+| --- |  --- | --- |
+| <a> <img width ='200px'   src ='https://raw.githubusercontent.com/dtrieb123/neuroshack/main/grin.png'>  | <a> <img width ='200px'   src ='https://raw.githubusercontent.com/dtrieb123/neuroshack/main/ETH.png'>  | <a> <img width ='200px'   src ='https://raw.githubusercontent.com/dtrieb123/neuroshack/main/qrbtc.png'>  | 
+
  
 <a> <img width ='100%'  height ='2px' src ='https://upload.wikimedia.org/wikipedia/commons/b/bf/GradientPurpleBlue.png'> </a>
 
