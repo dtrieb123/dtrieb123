@@ -35,6 +35,8 @@
 - TikTok: https://www.tiktok.com/@neuroshack?
 - Hive.io/ecency: https://ecency.com/@neuroshack
 
+<a> <img width ='100%'  height ='2px' src ='https://upload.wikimedia.org/wikipedia/commons/b/bf/GradientPurpleBlue.png'> </a>
+
 ##### Donations are always welcome:
 
 | #GRIN | #Ethereum |  #BitCoin |
@@ -42,6 +44,4 @@
 | <a> <img width ='200px'   src ='https://raw.githubusercontent.com/dtrieb123/neuroshack/main/grin.png'>  | <a> <img width ='200px'   src ='https://raw.githubusercontent.com/dtrieb123/neuroshack/main/ETH.png'>  | <a> <img width ='200px'   src ='https://raw.githubusercontent.com/dtrieb123/neuroshack/main/qrbtc.png'>  | 
 
  
-<a> <img width ='100%'  height ='2px' src ='https://upload.wikimedia.org/wikipedia/commons/b/bf/GradientPurpleBlue.png'> </a>
-
 ### Thank you!
