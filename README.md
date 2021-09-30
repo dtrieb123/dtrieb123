@@ -34,6 +34,7 @@
 - Facebook: https://www.facebook.com/Neuroshack-103496742105941
 - TikTok: https://www.tiktok.com/@neuroshack?
 - Hive.io/ecency: https://ecency.com/@neuroshack
+- publish0x: https://www.publish0x.com/neuroshack
 
 <a> <img width ='100%'  height ='2px' src ='https://upload.wikimedia.org/wikipedia/commons/b/bf/GradientPurpleBlue.png'> </a>
 
