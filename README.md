@@ -24,6 +24,7 @@
 
 ##### Socials: 
 - Medium: https://medium.com/@neuroshack662
+- Discord: https://discord.gg/9EBrmvDRTS
 - Reddit: https://www.reddit.com/user/Neuroshack
 - Reddit Group: https://www.reddit.com/r/Neuroshack/
 - Google/Youtube: https://www.youtube.com/channel/UCYeit9O39VYjYRxVlIStKQw
